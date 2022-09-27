@@ -3,3 +3,24 @@
   margin: 0;
   box-sizing: border-box;
 }
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  min-height: 100vh;
+  background-color: #040d15;
+}
+a {
+  position: relative;
+  display: inline-block;
+  padding: 12px 36px;
+  margin: 0 30px;
+  font-size: 18px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 40px;
+  overflow: hidden;
+}
