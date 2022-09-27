@@ -26,7 +26,7 @@ a {
 }
 span {
   position: absolute;
-  background-color: #45ffff;
+  background-color: #fff;
   border-radius: 50%;
   transform: translate(-50%, -50%);
   pointer-events: none;
