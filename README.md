@@ -16,7 +16,7 @@
 
 Создано на основе видео с Youtube канала [CODE WITH HOSSEIN](https://www.youtube.com/c/CodeWithHossein).
 
-Обучение и работа с **CSS** и **JavaScript**.
+Обучение и работа с **CSS** и **JavaScript**.  
 Эффек волны, в зависимости от наведения стрелки мыши.
 
 ---
